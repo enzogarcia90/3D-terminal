@@ -20,7 +20,7 @@ hay secciones donde el acceso está restringido por una contraseña ese bloqueo 
 
 
 
-##Nota 
+## Nota 
 
 esta terminal está optimizada para los modelos Ender y en específico la Ender 5 S1 
 ## Instalación
